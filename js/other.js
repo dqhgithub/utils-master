@@ -1,4 +1,4 @@
-class OtherFn {
+class OtherFn { 
 
     /**
      * [deepClone 深度克隆]

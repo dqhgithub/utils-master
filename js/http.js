@@ -1,4 +1,4 @@
-/*
+/* 
     let url = 'http://demo.com/api'
     例: 
         ajax({

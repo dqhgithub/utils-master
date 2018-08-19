@@ -1,4 +1,4 @@
-class StringFn {
+class StringFn { 
     /**
      * 去除空格
      * @param  {str}

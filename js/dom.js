@@ -1,4 +1,4 @@
-class DomFn {
+class DomFn { 
 
     $ (selector){ 
         var type = selector.substring(0, 1);

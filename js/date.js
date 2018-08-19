@@ -1,4 +1,4 @@
-class DateFn {
+class DateFn { 
     /**
      * 格式化时间
      * 

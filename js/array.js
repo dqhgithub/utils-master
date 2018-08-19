@@ -1,4 +1,4 @@
-class ArrayFn {
+class ArrayFn { 
     /*判断一个元素是否在数组中*/
     contains (arr, val) {
         return arr.indexOf(val) != -1 ? true : false;

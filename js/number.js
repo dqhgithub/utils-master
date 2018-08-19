@@ -1,4 +1,4 @@
-class NumberFn {
+class NumberFn { 
 
     /*随机数范围*/
     random (min, max) {

@@ -1,4 +1,4 @@
-class StorageFn {
+class StorageFn { 
     constructor () {
         this.ls = window.localStorage;
         this.ss = window.sessionStorage;
